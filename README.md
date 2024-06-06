@@ -1,1 +1,3 @@
 # NATO
+The North Atlantic Treaty Organization was created in 1949 by the United States, Canada, and several Western European nations to provide collective security against the Soviet Union. NATO was the first peacetime military alliance the United States entered into outside of the Western Hemisphere.
+The peacekeeping forces used a special communication set ;also known as the 'military alphabet' or the 'spelling alphabet', the phonetic alphabet eliminates ambiguity in spoken communication. More specifically, it was developed to clarify and avoid misunderstandings in the pronunciation of specific words or letters.The codes are written in nato_phonetic_alphabet.csv file.The program generates the nato code for your choice of word !!
